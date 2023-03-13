@@ -1,0 +1,8 @@
+distance/*
+processed/
+curves/
+scenarioII/provider/
+scenarioIII/customer/
+scenarioIII/provider/
+*/__pycache__/*
+__pycache__/
